@@ -2,6 +2,7 @@
 
 [![Build Status](http://jenkins.inviwo.org:8080/buildStatus/icon?job=inviwo/master)](http://jenkins.inviwo.org:8080/job/inviwo/job/master/) [![BSD licensed](https://img.shields.io/badge/license-BSD-blue.svg?maxAge=2592000)](https://github.com/inviwo/inviwo/blob/master/LICENSE)
 [![Release version](https://img.shields.io/github/release/inviwo/inviwo.svg?maxAge=86400)](https://github.com/inviwo/inviwo/releases/latest)
+[![DOI](https://zenodo.org/badge/405953136.svg)](https://zenodo.org/badge/latestdoi/405953136)
 
 <div class="inviwo-screenshot">
 
